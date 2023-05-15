@@ -22,6 +22,8 @@ function App() {
       }
     })
     console.log(updatedPassenger?.id)
+    console.log(updatedPassenger?.car?.id)
+    console.log(updatedPassenger?.car?.brand)
   }, {
     onComplete: () => {
       setModalOpen(false)
