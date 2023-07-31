@@ -12,17 +12,17 @@
     "generate": "gqty generate"
   },
   "dependencies": {
-    "@gqty/react": "3.0.0-alpha-7906fb34.0",
-    "gqty": "3.0.0-alpha-7906fb34.0",
+    "@gqty/react": "3.0.0-alpha-74beaa55.0",
+    "gqty": "3.0.0-alpha-74beaa55.0",
     "grommet": "^2.33.1",
     "grommet-icons": "^4.11.0",
     "grommet-theme-hpe": "^5.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "styled-components": "^6.0.5"
+    "styled-components": "^5.3.11"
   },
   "devDependencies": {
-    "@gqty/cli": "4.0.0-alpha-7906fb34.0",
+    "@gqty/cli": "4.0.0-alpha-74beaa55.0",
     "@types/react": "^18.2.17",
     "@types/react-dom": "^18.2.7",
     "@typescript-eslint/eslint-plugin": "^6.2.0",
